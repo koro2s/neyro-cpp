@@ -1,0 +1,8 @@
+Anger:"https://vk.com/music/curator/mzk/playlists?z=audio_playlist-34384434_84577012",
+Contempt:"https://vk.com/music/curator/mzk/playlists?z=audio_playlist-34384434_84577125",
+Disgust:"https://vk.com/music/curator/mzk/playlists?z=audio_playlist-34384434_84576947",
+Fear:"https://vk.com/music/curator/mzk/playlists?z=audio_playlist-34384434_84577148",
+Happiness:"https://vk.com/music/curator/mzk/playlists?z=audio_playlist-34384434_84577075",
+Neutral:"https://vk.com/music/curator/mzk/playlists?z=audio_playlist-34384434_84577345",
+Sadness:"https://vk.com/music/curator/mzk/playlists?z=audio_playlist-34384434_84576958",
+Surprise:"https://vk.com/music/curator/mzk/playlists?z=audio_playlist-34384434_84577343"
